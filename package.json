@@ -13,5 +13,8 @@
     "highland": "^2.13.4",
     "lodash": "^4.17.11",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.96.0"
   }
 }
