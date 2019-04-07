@@ -1,0 +1,17 @@
+{
+  "name": "api_checker",
+  "version": "0.0.1",
+  "description": "api checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "highland": "^2.13.4",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
+  }
+}
